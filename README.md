@@ -96,7 +96,4 @@ El proyecto incluye diversas visualizaciones gráficas para facilitar la interpr
 ## 👩‍💻 Personas Desarrolladoras del Proyecto
 - **Liliana Rodríguez**: Desarrollo principal, análisis de datos y generación de visualizaciones.
 
----
-
-Este README incluye la imagen `imagen_portada.png` como portada del proyecto. Si tienes más preguntas o quieres añadir algo más, ¡estaré encantado de ayudarte! 😊🚀
 
