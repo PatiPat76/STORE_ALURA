@@ -2,7 +2,9 @@
 DATA_SC_STORE_ALURA
 # 📊 Proyecto de Análisis de Datos de Tiendas
 
-![Portada del Proyecto](imagen_portada.png)
+<p align="center">
+  <img src="imagen_portada.png" alt="Portada del Proyecto" style="width:100%; height:auto; max-height:300px;">
+</p>
 
 ## 🏆 Índice
 1. [Descripción del Proyecto](#descripción-del-proyecto)
